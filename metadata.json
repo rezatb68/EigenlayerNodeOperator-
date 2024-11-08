@@ -1,12 +1,7 @@
-ECDSA Private Key (Hex):  7dbf7e5bb1248238a3886ea9c1cb7c0992159785ec3910df3cc2f8217e3222fd
-Please backup the above private key hex in safe place.
-
-Key location: /root/.eigenlayer/operator_keys/[reza].ecdsa.key.json
-Public Key hex:  c6173d9ac6b8fd9bd72c32f60dc94fd9f1a4ff7e3ebba7089ffac5e45fabf0c9e054d4ca34f1ce97b7b8cb1dbdabd84d854b2f168bbcfda425547f56b5fa2d73
-Ethereum Address 0x9FEA57a3a70aC71B2BDFf024406aE6f9Fc7891E2
-? Enter password to encrypt the bls private key: ************
-BLS Private Key: 4963253577750168981916127153106539252338940710818114507136067206582744008090
-Please backup the above private key in safe place.
-
-BLS Pub key: E([14175218560194096081020314276986543635384291865445370578057011819609218227670,11655317547489356147002797738637970173941932443937565495709568690705441944535])
-Key location: /root/.eigenlayer/operator_keys/[rezatb].bls.key.json
+{
+  "name": "xweb",
+  "website": "https://x.com/rezatb13",
+  "description": "validator xweb block",
+  "logo": "https://github.com/rezatb68/EigenlayerNodeOperator-/blob/main/11em.png",
+  "twitter": "https://x.com/rezatb13"
+}
